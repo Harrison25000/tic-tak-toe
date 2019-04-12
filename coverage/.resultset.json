@@ -1,0 +1,55 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/oliverharrison/Projects/week_9_onsite/tic-tak-toe/tic-tak-toe/spec/board_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/oliverharrison/Projects/week_9_onsite/tic-tak-toe/tic-tak-toe/lib/board.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/oliverharrison/Projects/week_9_onsite/tic-tak-toe/tic-tak-toe/spec/game_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/oliverharrison/Projects/week_9_onsite/tic-tak-toe/tic-tak-toe/lib/game.rb": [
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/oliverharrison/Projects/week_9_onsite/tic-tak-toe/tic-tak-toe/spec/player_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/oliverharrison/Projects/week_9_onsite/tic-tak-toe/tic-tak-toe/lib/player.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1555067841
+  }
+}
